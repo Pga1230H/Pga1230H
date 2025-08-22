@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pga1230H 👋
 
-<!--
-**Pga1230H/Pga1230H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: *Add your focus here*
+- 💼 I’m working on: *Add your projects here*
+- 🤝 I’m looking to collaborate on: *Add areas you're interested in collaborating on*
+- 📫 How to reach me: *Add your email or socials*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: *List your languages here (e.g., Python, JavaScript, etc.)*
+- Tools & Technologies: *List your tools (e.g., Git, Docker, etc.)*
+
+## 📊 GitHub Stats
+![Pga1230H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pga1230H&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [Pga1230H](https://github.com/Pga1230H)
