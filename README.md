@@ -1,5 +1,5 @@
 # Hi, I'm Atuy 
-this is my first year learning coding. i hope im doing well.
+this is my first year learning how to code. hope im doing well.
 ##  About Me
 I’m currently learning: javascript, Python, c++
 
