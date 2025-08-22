@@ -2,6 +2,7 @@
 this is my first year learning coding. i hope im doing well.
 ##  About Me
 I’m currently learning: javascript, Python, c++
+
 I’m working on: Island of salaras
 
 
